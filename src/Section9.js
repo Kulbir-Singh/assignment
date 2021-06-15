@@ -59,7 +59,7 @@ export default function Section9() {
 const SubInputs = styled.div`
   display: flex;
   margin-top: 30px;
-  width: 90%;
+  width: 93%;
 `;
 
 const Textarea = styled.textarea`
@@ -88,7 +88,7 @@ const Input = styled.input`
 `;
 const Right = styled.div`
   width: 70%;
-  padding-top: 27%;
+  padding-top: 18%;
   padding-left: 40px;
   height: 75%;
   display: flex;

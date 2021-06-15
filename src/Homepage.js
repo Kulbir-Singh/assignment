@@ -19,7 +19,8 @@ export default function Homepage() {
       document.getElementById("header").style.color = "black";
       document.getElementById("headerBtn").style.color = "black";
       document.getElementById("headerBtn").style.border = "2px solid black";
-      document.getElementById("header").style.height = "40px";
+      document.getElementById("header").style.height = "30px";
+      document.getElementById("header").style.paddingTop = "10px";
     } else {
       document.getElementById("header").style.background = "transparent";
       document.getElementById("logo").style.filter = "";
