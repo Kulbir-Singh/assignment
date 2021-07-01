@@ -4,13 +4,10 @@ import logo from "./resources/Groupe 33.svg";
 export default function Footer() {
   return (
     <Wrapper>
-      <Text>Accueil L’édifice Le secteur Plans Nous joindre</Text>
+      <Text>More-Information Photos Contact-Us</Text>
       <SubText>
-        <span>
-          {" "}
-          <img src={logo} />© Copyright 2020 - Le baronet
-        </span>
-        <span>Fait par Gabriel Sévigny</span>
+        <span> © Copyright 2020 - Your company name</span>
+        <span></span>
       </SubText>
     </Wrapper>
   );
@@ -21,7 +18,7 @@ const Text = styled.p`
   display: flex;
   width: 95%;
   justify-content: center;
-  word-spacing: 20px;
+  word-spacing: 10px;
   align-items: center;
 `;
 

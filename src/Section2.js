@@ -7,33 +7,35 @@ export default function Section2() {
         <Title>
           <p>
             {" "}
-            <span>Réservez votre unité</span>
+            <span>Reserve you unit</span>
           </p>
           <p>
             {" "}
-            <span>dès maintenant</span>
+            <span>as soon as posible</span>
           </p>
         </Title>
         <Subtitle1>
-          Un édifice moderne
-          <br /> et accessible
+          A modern building
+          <br /> and accessible building
         </Subtitle1>
-        <Subtitle2>64 logements à louer en Beauce</Subtitle2>
+        <Subtitle2>48 units for rent</Subtitle2>
       </RightSection>
       <LeftSection>
         <Text1>
-          L’édifice du Baronet vous offre 64 logements modernes de qualité
-          supérieure, répartis sur quatre étages. Ses résidents y trouvent
-          assurément confort et satisfaction, puisqu’il offre six modèles de
-          logements 3 ½ ou 4 ½. De plus, certaines unités sont adaptées aux
-          personnes à mobilité réduite, un atout rare dans la région.
+          Lorem Ipsum is simply dummy text of the printing and typesetting
+          industry. Lorem Ipsum has been the industry's standard dummy text ever
+          since the 1500s, when an unknown printer took a galley of type and
+          scrambled it to make a type specimen book. It has survived not only
+          five centuries, but also the leap into electronic typesetting,
+          remaining essentially unchanged.
         </Text1>
         <Text2>
-          <p>Phase 1 disponible dès l’été 2021</p>{" "}
+          <p>Units available as of 2021</p>{" "}
           <p>
-            Les appartements seront livrés en 2 phases :<br /> la première phase
-            de 64 logements à l’été 2021 et la seconde de 32 logements à l’été
-            2023. Réservez votre unité dès maintenant!
+            Lorem Ipsum is simply dummy text of the printing and typesetting
+            industry. Lorem Ipsum has been the industry's standard dummy text
+            ever since the 1500s, when an unknown printer took a galley of type
+            and scrambled it to make a type specimen book.
           </p>
         </Text2>
       </LeftSection>

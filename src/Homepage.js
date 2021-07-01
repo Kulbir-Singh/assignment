@@ -14,8 +14,7 @@ export default function Homepage() {
       document.documentElement.scrollTop > 50
     ) {
       document.getElementById("header").style.background = "white";
-      document.getElementById("logo").style.filter =
-        "invert(98%) sepia(98%) saturate(9%) hue-rotate(203deg) brightness(104%) contrast(102%)";
+      document.getElementById("logo").style.color = "black";
       document.getElementById("header").style.color = "black";
       document.getElementById("headerBtn").style.color = "black";
       document.getElementById("headerBtn").style.border = "2px solid black";
@@ -23,7 +22,7 @@ export default function Homepage() {
       document.getElementById("header").style.paddingTop = "10px";
     } else {
       document.getElementById("header").style.background = "transparent";
-      document.getElementById("logo").style.filter = "";
+      document.getElementById("logo").style.color = "white";
       document.getElementById("headerBtn").style.color = "white";
       document.getElementById("headerBtn").style.border = "2px solid white";
       document.getElementById("header").style.color = "";
@@ -33,29 +32,27 @@ export default function Homepage() {
   return (
     <Wrapper>
       <Header id="header">
-        <Title>
-          <img src={Logo} id="logo" />
-        </Title>
+        <Title id="logo">Your Logo</Title>
         <SideBar>
-          <a href="#accueil">Accueil</a>
-          <a href="#edifice">L'edifice</a>
-          <a href="#secteur">La secteur</a>
+          <a href="#accueil">Home</a>
+          <a href="#edifice">The building</a>
+          <a href="#secteur">The Sector</a>
           <a href="#plans">Plans</a>
-          <a href="#joindre">Nous joindre</a>
-          <Reservation id="headerBtn">Reserver mon unite</Reservation>
+          <a href="#joindre">Contact Us</a>
+          <Reservation id="headerBtn">Reserve a unit</Reservation>
         </SideBar>
       </Header>
       <Img src={HomeImg} />
       <Img2 src={HomeImg2} />
       <SideText>
         <Subtext>
-          <span>Des appartments</span>
+          <span>Quality</span>
         </Subtext>
         <Subtext>
-          <span>de qualite a</span>
+          <span>Appartments</span>
         </Subtext>
         <Subtext>
-          <span>Sainte-Marie</span>
+          <span>Near (Location)</span>
         </Subtext>
       </SideText>
     </Wrapper>
@@ -95,7 +92,6 @@ const Title = styled.div`
   text-align: left;
   padding-left: 12.5%;
   letter-spacing: 10px;
-  text-decoration: underline;
 `;
 
 const SideBar = styled.div`

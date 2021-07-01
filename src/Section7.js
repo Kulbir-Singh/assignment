@@ -43,7 +43,7 @@ export default function Section7() {
         >
           1
         </button>
-        <button>Réserver mon unité</button>
+        <button>More Info</button>
       </Buttons>{" "}
       <ImgDiv>
         <Img src={image} />{" "}

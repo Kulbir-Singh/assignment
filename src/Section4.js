@@ -35,8 +35,9 @@ export default function Section4() {
       </Swiper>
       <Text>
         <span>
-          Découvrez les possibilités
-          <br /> qui s’offrent à vous
+          Discover the possibilities
+          <br />
+          available to you
         </span>
       </Text>
     </Wrapper>

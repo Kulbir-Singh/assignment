@@ -4,17 +4,17 @@ export default function Section9() {
   return (
     <Wrapper>
       <Left>
-        <Title>Nous joindre</Title>
-        <SubTitle>Réservez votre unité !</SubTitle>
+        <Title>Contact Us</Title>
+        <SubTitle>Make a Reservation!</SubTitle>
         <SubTitle2>
-          Des questions ? Notre
-          <br /> équipe est là pour vous !
+          Questions? Feel
+          <br /> free to reach out to us!
         </SubTitle2>
         <Address>
-          265, Avenue St-Honoré # 104
-          <br /> Sainte-Marie, Québec G6E 2P3
+          123, Street Name
+          <br /> City Postal Code
         </Address>
-        <Phone>1 418 209-6183</Phone>
+        <Phone>1 234 111-0000</Phone>
         <Text>
           Heures d’ouverture du bureau de location : en tout temps, sur
           rendez-vous.
@@ -27,20 +27,20 @@ export default function Section9() {
       <Right>
         <Name>
           {" "}
-          Nom complet
+          Name
           <br />
           <NameInput />
         </Name>
         <SubInputs>
           <Email>
             {" "}
-            Adresse courriel
+            Email Address
             <br />
             <Input />
           </Email>
           <Number>
             {" "}
-            Numéro de téléphone
+            Phone
             <br />
             <Input />
           </Number>
@@ -59,7 +59,7 @@ export default function Section9() {
 const SubInputs = styled.div`
   display: flex;
   margin-top: 30px;
-  width: 93%;
+  width: 90%;
 `;
 
 const Textarea = styled.textarea`

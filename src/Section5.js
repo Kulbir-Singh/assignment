@@ -7,40 +7,52 @@ export default function Section5() {
         <Title>Un secteur de choix</Title>
         <SubTitle>Au centre-ville de Sainte-Marie</SubTitle>
         <Text>
-          Situé à l’angle de la rue Notre-Dame Sud et Baronet, l’édifice offre à
-          ses résidents un emplacement de choix. Le Baronet est au centre de la
-          belle ville de Sainte-Marie, près des services et commerces, au grand
-          bonheur de ses locataires. Vous y êtes dans un environnement paisible
-          empreint de quiétude et tranquillité. D’un côté, les résidents ont
-          droit à une vue magnifique sur la rivière Chaudière. De l’autre,
-          l’édifice est bordé par une piste cyclable et par des arbres matures
+          Lorem Ipsum is simply dummy text of the printing and typesetting
+          industry. Lorem Ipsum has been the industry's standard dummy text ever
+          since the 1500s, when an unknown printer took a galley of type and
+          scrambled it to make a type specimen book. It has survived not only
+          five centuries, but also the leap into electronic typesetting,
+          remaining essentially unchanged.
         </Text>
         <Text>
-          S’établir au Baronet, c’est vivre au cœur de Sainte-Marie, dans un
-          environnement des plus enchanteurs, tout en étant à proximité de
-          l’action citadine. Le meilleur des deux mondes!
+          Lorem Ipsum is simply dummy text of the printing and typesetting
+          industry. Lorem Ipsum has been the industry's standard dummy text ever
+          since the 1500s, when an unknown printer took a galley of type and
+          scrambled it to make a type specimen book.
         </Text>
-        <Button>Voir les plans</Button>
+        <Button>See the plans</Button>
       </Left>
       <Right>
         <Ol>
           <Li>
-            <span>Un lieu où il fait bon vivre</span>
-          </Li>
-          <Li>
             <span>
-              Au futur centre-ville vert de Sainte-Marie aménagé en continuité
-              avec le merveilleux Parc Taschereau
+              Lorem Ipsum is simply dummy text of the printing and typesetting
+              industry.
             </span>
           </Li>
           <Li>
-            <span>Bordé par la piste cyclable et par des arbres matures</span>
+            <span>
+              Lorem Ipsum is simply dummy text of the printing and typesetting
+              industry.
+            </span>
           </Li>
           <Li>
-            <span>À quelques minutes de nombreux commerces et services</span>
+            <span>
+              Lorem Ipsum is simply dummy text of the printing and typesetting
+              industry.
+            </span>
           </Li>
           <Li>
-            <span>À proximité de parcs et écoles primaires</span>
+            <span>
+              Lorem Ipsum is simply dummy text of the printing and typesetting
+              industry.
+            </span>
+          </Li>
+          <Li>
+            <span>
+              Lorem Ipsum is simply dummy text of the printing and typesetting
+              industry.
+            </span>
           </Li>
         </Ol>
       </Right>

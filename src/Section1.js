@@ -5,37 +5,43 @@ export default function Section1() {
   return (
     <Wrapper>
       <Text>
-        <H3>La qualite de vie sans compromis !</H3>
-        <H4>Appartements a louer a Sainte-Marie</H4>
+        <H3>Quality Appartments for sale near you !</H3>
+        <H4>Appartements for Rent</H4>
         <p>
-          <strong> 64 unités | Livraison de la Phase 1 juillet 2021</strong>
-          <br /> Bienvenue aux condos locatifs : un nouvel immeuble locatif
-          situé au cœur de Sainte-Marie, en Beauce, comportant 64 appartements à
-          louer. Que vous soyez seul, un jeune couple, une famille ou
-          nouvellement retraité, vous serez comblés par la vaste sélection de
-          logements 3 ½ et 4 ½ situés dans un environnement des plus
-          enchanteurs.
+          <strong> Lorem Ipsum is simply dummy text of the printing </strong>
+          <br /> Lorem Ipsum is simply dummy text of the printing and
+          typesetting industry. Lorem Ipsum has been the industry's standard
+          dummy text ever since the 1500s, when an unknown printer took a galley
+          of type and scrambled it to make a type specimen book. It has survived
+          not only five centuries, but also the leap into electronic
+          typesetting, remaining essentially unchanged. It was popularised in
+          the 1960s with the release of Letraset sheets containing Lorem Ipsum
+          passages, and more recently with desktop publishing software like
+          Aldus PageMaker including versions of Lorem Ipsum.
         </p>
         <p>
-          Si le nom du Baronet vous semble familier, ce n’est pas un hasard. Les
-          appartements empruntent leur nom à l’ancienne usine, bien connue des
-          Beaucerons. Vous l’aurez deviné, le nouvel édifice siège sur la rue
-          Baronet, face à la rivière Chaudière, au milieu du futur centre-ville
-          vert de Sainte-Marie.
+          Lorem Ipsum is simply dummy text of the printing and typesetting
+          industry. Lorem Ipsum has been the industry's standard dummy text ever
+          since the 1500s, when an unknown printer took a galley of type and
+          scrambled it to make a type specimen book. It has survived not only
+          five centuries, but also the leap into electronic typesetting,
+          remaining essentially unchanged. It was popularised in the 1960s with
+          the release of Letraset sheets containing Lorem Ipsum passages, and
+          more recently with desktop publishing software like Aldus PageMaker
+          including versions of Lorem Ipsum.
         </p>
         <p>
-          Vous offrir une qualité de vie sans compromis, telle est la promesse
-          du Baronet.
+          Lorem Ipsum is simply dummy text of the printing and typesetting
+          industry.
           <br />
           <br />
           <strong>
-            3 ½ / 4 ½ / certaines unités adapté aux personnes à mobilité
-            réduite.
+            3 ½ / 4 ½ / some units adapted for people with diabilities.
           </strong>
         </p>
         <ButtonDiv>
-          <Button1>Voir les plans</Button1>
-          <Button2>Réserver mon unité</Button2>
+          <Button1>See the plans</Button1>
+          <Button2>Reserve a spot</Button2>
         </ButtonDiv>
       </Text>
       <Image>

@@ -8,44 +8,40 @@ export default function Section2() {
   return (
     <Wrapper>
       <RightSection>
-        <p>Des services et commodités à votre portée : </p>
-        Espaces de vie pratiques et réfléchis, inclusions et commodités
-        recherchées, le tout construit avec des matériaux de qualité : c’est ce
-        que vous offre le Baronet.<Button>Découvrir le secteur</Button>
+        <p>Services and amenities at your fingertips : </p>
+        Lorem Ipsum has been the industry's standard dummy text ever since the
+        1500s, when an unknown printer took a galley of type and scrambled it to
+        make a type specimen book. <Button>Discover the sector</Button>
       </RightSection>
       <LeftSection>
         <Ul>
           <li>
             <Img src={Logo} />
-            Stationnement intérieur et extérieur disponibles
+            Indoor and outdoor parking available
           </li>
           <li>
             <Img src={Logo} />
-            Lockers intérieurs disponibles
+            Interior lockers available
           </li>
           <li>
             <Img src={Logo} />
-            Piscine extérieure chauffée, disponible en Phase 2
+            Heated outdoor pool, available in Phase 2
           </li>
           <li>
             <Img src={Logo} />
-            Ascenseur
+            Elevator
           </li>
           <li>
             <Img src={Logo} />
-            Gym et salle communautaire
+            Gym and community hall
           </li>
           <li>
             <Img src={Logo} />
-            Climatisation indépendante{" "}
+            Independent air conditioning
           </li>
           <li>
             <Img src={Logo} />
-            Insonorisation supérieure
-          </li>
-          <li>
-            <Img src={Logo} />
-            Sans oublier, la vue imprenable sur la rivière Chaudière
+            Superior soundproofing
           </li>
         </Ul>
       </LeftSection>
