@@ -16,12 +16,12 @@ export default function Section9() {
         </Address>
         <Phone>1 234 111-0000</Phone>
         <Text>
-          Heures d’ouverture du bureau de location : en tout temps, sur
-          rendez-vous.
+          Lorem Ipsum is simply dummy text of the printing and typesetting
+          industry.
         </Text>
         <Text>
-          Les rencontres virtuelles sont possibles. Appelez-nous pour prendre
-          rendez-vous!
+          Lorem Ipsum is simply dummy text of the printing and typesetting
+          industry.
         </Text>
       </Left>
       <Right>
@@ -50,7 +50,7 @@ export default function Section9() {
           <br />
           <Textarea rows="12" />
         </Message>
-        <Button>Envoyer</Button>
+        <Button>Send</Button>
       </Right>
     </Wrapper>
   );

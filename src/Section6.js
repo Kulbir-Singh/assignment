@@ -5,15 +5,15 @@ export default function Section6() {
   return (
     <Wrapper>
       <Left>
-        <Title>Des plans bien pensés</Title>
-        <SubTitle>3 1/2 et 4 1/2 à louer</SubTitle>
+        <Title>Well thought out designs</Title>
+        <SubTitle>3 1/2 et 4 1/2 for rent</SubTitle>
         <Text>
-          Confort et qualité, à prix accessible, voilà l’offre du Baronet.
-          Découvrez nos 3 ½ et 4 ½ à louer à Sainte-Marie.
+          Lorem Ipsum is simply dummy text of the printing and typesetting
+          industry.
         </Text>
         <Text>
-          Pour voir quel appartement convient le mieux à votre style de vie,
-          consultez le plan ci-dessous. Sélectionnez un étage.
+          Lorem Ipsum is simply dummy text of the printing and typesetting
+          industry. Lorem Ipsum has been the industry's standard dummy.
         </Text>
       </Left>
       <Right>
@@ -21,27 +21,27 @@ export default function Section6() {
         <Ul>
           <Li>
             <Img src={Logo} />
-            Appartements à aire-ouverte
+            Open concept apartments
           </Li>
           <Li>
             <Img src={Logo} />
-            Grande luminosité
+            Bright rooms
           </Li>
           <Li>
             <Img src={Logo} />
-            Beaucoup de rangement
+            Lots of space
           </Li>
           <Li>
             <Img src={Logo} />
-            Espace bureau
+            Office space
           </Li>
           <Li>
             <Img src={Logo} />
-            Douche en céramique et bain autoportant
+            Furnished
           </Li>
           <Li>
             <Img src={Logo} />
-            Climatisation indépendante
+            Independent air conditioning
           </Li>
         </Ul>
       </Right>

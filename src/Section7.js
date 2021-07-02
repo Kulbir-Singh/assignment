@@ -10,10 +10,10 @@ export default function Section7() {
     <Wrapper>
       <Buttons>
         <Title>
-          <span>Les réservations</span>
+          <span>The Reservations</span>
           <br />
           <br />
-          <span>sont commencées!</span>
+          <span>have started !</span>
         </Title>
         <button
           onClick={() => {
